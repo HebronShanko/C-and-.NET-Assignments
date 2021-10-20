@@ -32,8 +32,8 @@ namespace MathandComparison_Assignment
             Console.ReadLine();
 
             Console.WriteLine("Does Person 1 make more money than Person 2?");
-            bool largerSalary = salary1 > salary2;
-            Console.WriteLine(largerSalary);
+            bool biggerSalary = salary1 > salary2;
+            Console.WriteLine(biggerSalary);
             Console.ReadLine();
 
 
