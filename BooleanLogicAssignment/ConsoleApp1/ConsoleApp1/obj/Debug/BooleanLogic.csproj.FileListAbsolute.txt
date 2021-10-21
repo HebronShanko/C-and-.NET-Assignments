@@ -1,0 +1,7 @@
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\BooleanLogicAssignment\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\BooleanLogicAssignment\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\BooleanLogicAssignment\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\BooleanLogicAssignment\ConsoleApp1\ConsoleApp1\obj\Debug\BooleanLogic.csproj.AssemblyReference.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\BooleanLogicAssignment\ConsoleApp1\ConsoleApp1\obj\Debug\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\BooleanLogicAssignment\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\BooleanLogicAssignment\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
