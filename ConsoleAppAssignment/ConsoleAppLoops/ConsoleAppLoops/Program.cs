@@ -13,7 +13,7 @@ namespace ConsoleAppLoops
             Console.WriteLine("Guess a number?");
             int number = Convert.ToInt32(Console.ReadLine());
             bool isGuessed = number == 9;
-
+            // condition. the guessed number must be 9
 
             do
             {
@@ -41,7 +41,7 @@ namespace ConsoleAppLoops
                         break;
                     case 50:
                         Console.WriteLine("You guessed 50, Try again");
-                        Console.WriteLine("Guess a number?");
+                        Console.WriteLine("Guess a number?");   
                         number = Convert.ToInt32(Console.ReadLine());
                         break;
 
@@ -51,6 +51,7 @@ namespace ConsoleAppLoops
                         number = Convert.ToInt32(Console.ReadLine());
                         break;
                 }
+                // untill number is guessed, do this while loop
             }
             while (!isGuessed);
            

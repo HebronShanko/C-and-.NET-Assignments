@@ -1,0 +1,7 @@
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppArray\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppArray\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppArray\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppArray\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.AssemblyReference.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppArray\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.CoreCompileInputs.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppArray\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppArray\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb
