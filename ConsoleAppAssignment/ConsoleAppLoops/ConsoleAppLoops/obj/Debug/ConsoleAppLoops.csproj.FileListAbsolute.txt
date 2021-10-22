@@ -1,0 +1,7 @@
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppAssignment\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\ConsoleAppLoops.exe.config
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppAssignment\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\ConsoleAppLoops.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppAssignment\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\ConsoleAppLoops.pdb
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppAssignment\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.csproj.AssemblyReference.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppAssignment\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.csproj.CoreCompileInputs.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppAssignment\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ConsoleAppAssignment\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.pdb
