@@ -9,7 +9,7 @@ namespace ConsoleAppArray
         static void Main()
         {
 
-            int[] numArray = new int[] { 5, 9, 44, 65, 19, 7, 2, 89, 45, 63, 20 };
+            int[] numArray = new int[] { 5, 9, 44, 65, 19, 7, 2, 89, 45, 63, 20 };      
             Console.WriteLine("Type an Index number 0 through 10?");
             int index = int.Parse(Console.ReadLine());
 
@@ -38,9 +38,9 @@ namespace ConsoleAppArray
             }
 
             List<string> intList = new List<string>();
-            intList.Add("Hello");
-            intList.Add("Hi");
-            intList.Add("Hey");
+            intList.Add("Hello!");
+            intList.Add("Hi!");
+            intList.Add("Hey!");
             intList.Add("What's Good!");
 
             Console.WriteLine("Type an Index number 0 through 3?");
