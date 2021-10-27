@@ -1,0 +1,7 @@
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\StringAndIntegers\ConsoleAppStringandIntegers\ConsoleAppStringandIntegers\bin\Debug\ConsoleAppStringandIntegers.exe.config
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\StringAndIntegers\ConsoleAppStringandIntegers\ConsoleAppStringandIntegers\bin\Debug\ConsoleAppStringandIntegers.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\StringAndIntegers\ConsoleAppStringandIntegers\ConsoleAppStringandIntegers\bin\Debug\ConsoleAppStringandIntegers.pdb
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\StringAndIntegers\ConsoleAppStringandIntegers\ConsoleAppStringandIntegers\obj\Debug\ConsoleAppStringandIntegers.csproj.AssemblyReference.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\StringAndIntegers\ConsoleAppStringandIntegers\ConsoleAppStringandIntegers\obj\Debug\ConsoleAppStringandIntegers.csproj.CoreCompileInputs.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\StringAndIntegers\ConsoleAppStringandIntegers\ConsoleAppStringandIntegers\obj\Debug\ConsoleAppStringandIntegers.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\StringAndIntegers\ConsoleAppStringandIntegers\ConsoleAppStringandIntegers\obj\Debug\ConsoleAppStringandIntegers.pdb
