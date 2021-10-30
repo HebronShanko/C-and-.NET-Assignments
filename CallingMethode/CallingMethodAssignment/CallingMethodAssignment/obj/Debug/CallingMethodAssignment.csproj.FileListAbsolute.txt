@@ -1,0 +1,7 @@
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\CallingMethode\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\CallingMethodAssignment.exe.config
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\CallingMethode\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\CallingMethodAssignment.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\CallingMethode\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\CallingMethodAssignment.pdb
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\CallingMethode\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\CallingMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\CallingMethode\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\CallingMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\CallingMethode\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\CallingMethodAssignment.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\CallingMethode\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\CallingMethodAssignment.pdb
