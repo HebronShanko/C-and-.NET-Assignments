@@ -16,18 +16,27 @@ namespace IntMethodAssignment
             int y = Convert.ToInt32(Console.ReadLine());
 
             TwoInt myMath = new TwoInt();
-            if (y == 0)
-            {
-                int result = myMath.Subtraction(x);
-                Console.WriteLine(result);
 
-            }
-            else
+            try
             {
-                int result = myMath.Subtraction(x, y);
-                Console.WriteLine(result);
-                Console.ReadLine();
+                if (y == 0)
+                {
+                    int result = myMath.Subtraction(x);
+                    Console.WriteLine(result);
+
+                }
+                else
+                {
+                    int result = myMath.Subtraction(x, y);
+                    Console.WriteLine(result);
+                    Console.ReadLine();
+                }
             }
+            catch(FormatException)
+            {
+                Console.WriteLine();
+            }
+            
         }
     }
 }
