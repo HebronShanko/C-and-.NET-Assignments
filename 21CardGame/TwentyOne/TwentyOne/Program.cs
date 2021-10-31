@@ -15,12 +15,12 @@ namespace TwentyOne
             //game.ListPlayers();
             //Console.ReadLine();
 
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Hebron";
-            game += player;
-            game -= player;
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Hebron";
+            //game += player;
+            //game -= player;
 
 
 
