@@ -13,10 +13,20 @@ namespace ClassSubAssignment
             x = x / 2;
             Console.WriteLine(x);
         }
-        public void Division(out int x)
+        public void Division(int x, out int y)
         {
             int temp = 5;
             x = temp;
+            int temp2 = 10;
+            y = temp2;
+            Console.WriteLine(y);
+
         }
+         public void outMethod(out int Z)
+        {
+            Z = 100;
+            Console.WriteLine(Z);
+        }
+
     }
 }

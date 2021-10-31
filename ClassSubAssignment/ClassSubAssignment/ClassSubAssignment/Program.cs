@@ -21,7 +21,9 @@ namespace ClassSubAssignment
 
             int a = 8;
             Console.WriteLine("Call value of a: {0}", a);
-            p.Division(out a);
+            p.Division(a);
+
+            p.outMethod(out x);
 
             Console.WriteLine("After method call, value of a: {0}", a);
             Console.ReadLine();

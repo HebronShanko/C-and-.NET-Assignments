@@ -12,31 +12,23 @@ namespace IntMethodAssignment
         {
             Console.WriteLine("Enter a number");
             int x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter a second number");
-            int y = Convert.ToInt32(Console.ReadLine());
+           
 
             TwoInt myMath = new TwoInt();
 
             try
             {
-                if (y == 0)
-                {
-                    int result = myMath.Subtraction(x);
-                    Console.WriteLine(result);
-
-                }
-                else
-                {
-                    int result = myMath.Subtraction(x, y);
-                    Console.WriteLine(result);
-                    Console.ReadLine();
-                }
+                Console.WriteLine("Enter a second number");
+                int y = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(myMath.Subtraction(x, y));
             }
             catch(FormatException)
             {
-                Console.WriteLine();
+
+                Console.WriteLine(myMath.Subtraction(x, 23));
             }
-            
+            Console.ReadLine();
         }
+
     }
 }
