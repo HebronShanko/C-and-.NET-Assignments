@@ -1,0 +1,7 @@
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\DateTimeAssignment\DataTimeAssignment\DataTimeAssignment\bin\Debug\DataTimeAssignment.exe.config
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\DateTimeAssignment\DataTimeAssignment\DataTimeAssignment\bin\Debug\DataTimeAssignment.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\DateTimeAssignment\DataTimeAssignment\DataTimeAssignment\bin\Debug\DataTimeAssignment.pdb
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\DateTimeAssignment\DataTimeAssignment\DataTimeAssignment\obj\Debug\DataTimeAssignment.csproj.AssemblyReference.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\DateTimeAssignment\DataTimeAssignment\DataTimeAssignment\obj\Debug\DataTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\DateTimeAssignment\DataTimeAssignment\DataTimeAssignment\obj\Debug\DataTimeAssignment.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\DateTimeAssignment\DataTimeAssignment\DataTimeAssignment\obj\Debug\DataTimeAssignment.pdb

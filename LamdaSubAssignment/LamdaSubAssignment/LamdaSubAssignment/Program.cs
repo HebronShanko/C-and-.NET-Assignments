@@ -10,7 +10,7 @@ namespace LamdaSubAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is the employeeList");
+            Console.WriteLine("This is the EmployeeList");
             List<Employee> EmpList1 = new List<Employee>()
             {
                 new Employee
