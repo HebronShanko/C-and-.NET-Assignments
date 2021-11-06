@@ -6,18 +6,29 @@ using System.Threading.Tasks;
 
 namespace ConstructorAssignment
 {
-    class Construct
+    public class Construct
     {
-        public class ChainConstruct
+        
+        // chain constructor
+
+        public Construct(string movie) : this(10, movie)
         {
-            public ChainConstruct() : this(10)
-            {
 
-            }
-            public ChainConstruct(int Age)
-            {
-
-            }
         }
+
+        // constructor
+        public Construct(int ID, string movie)
+        {
+            movieName = movie;
+            movieID = ID;
+
+        }
+        //properties
+        public string movieName { get; set; }
+        public int movieID { get; set; }
+
+
+
+
     }
 }

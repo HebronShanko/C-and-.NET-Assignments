@@ -10,12 +10,14 @@ namespace ConstructorAssignment
     {
         static void Main(string[] args)
         {
-            const string MovieName = "Malcolm X";
-            var i = 13;
+            const string TheaterName = "Welcome to AMC Theater!";
+            Console.WriteLine(TheaterName + " Pick a Movie? ");
+            string userMovie = Console.ReadLine();
+            var movie = new Construct(userMovie);
 
-            Console.WriteLine("Welcome to {0} lets see the movie", MovieName);
+            Console.WriteLine("Your movie {0} has the ID of {1}", userMovie, movie.movieID);
 
-            Console.WriteLine(i);
+            Console.ReadLine();
         }
     }
 }
