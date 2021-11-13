@@ -134,6 +134,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\CarInsurance.cs" />
     <Compile Include="Models\Insurance.cs">
       <DependentUpon>InsuranceEntities.tt</DependentUpon>
     </Compile>
@@ -211,11 +212,11 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Insuree\Create.cshtml" />
-    <Content Include="Views\Insuree\Delete.cshtml" />
-    <Content Include="Views\Insuree\Details.cshtml" />
-    <Content Include="Views\Insuree\Edit.cshtml" />
-    <Content Include="Views\Insuree\Index.cshtml" />
+    <Content Include="Views\Insurance\Create.cshtml" />
+    <Content Include="Views\Insurance\Delete.cshtml" />
+    <Content Include="Views\Insurance\Details.cshtml" />
+    <Content Include="Views\Insurance\Edit.cshtml" />
+    <Content Include="Views\Insurance\Index.cshtml" />
     <Content Include="Views\Admin\Create.cshtml" />
     <Content Include="Views\Admin\Delete.cshtml" />
     <Content Include="Views\Admin\Details.cshtml" />

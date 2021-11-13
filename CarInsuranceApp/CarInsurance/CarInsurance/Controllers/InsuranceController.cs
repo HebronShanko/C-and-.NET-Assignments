@@ -88,11 +88,11 @@ namespace CarInsurance.Controllers
                 }
                 if (insurance.DUI)
                 {
-                    insurance.Quote *= 0.25m;
+                    insurance.Quote *= 1.25m;
                 }
                 if (insurance.CoverageType)
                 {
-                    insurance.Quote *= 0.5m;
+                    insurance.Quote *= 1.5m;
                 }
                 db.Insurances.Add(insurance);
                 db.SaveChanges();
