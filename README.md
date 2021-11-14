@@ -3,9 +3,9 @@ Here is where all my assignments and projects done with C# and .NET Framework wi
 
 Projects: 
 
-[21 Card Game!] (https://github.com/HebronShanko/C-and-.NET-Assignments/tree/main/21CardGame/TwentyOne)
+[21 Card Game] (https://github.com/HebronShanko/C-and-.NET-Assignments/tree/main/21CardGame/TwentyOne)
 
-[Car Insurance!] (https://github.com/HebronShanko/C-and-.NET-Assignments/tree/main/CarInsuranceApp/CarInsurance)
+[Car Insurance] (https://github.com/HebronShanko/C-and-.NET-Assignments/tree/main/CarInsuranceApp/CarInsurance)
 
 The 21 Card Game, is a well known casino game that requaired a well put together logics and senerios to create the game.
 
