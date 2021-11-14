@@ -9,6 +9,6 @@ Projects:
 
 The 21 Card Game, is a well known casino game that requaired a well put together logics and senerios to create the game.
 
-The Car Insurance is a Web App that will create a insurance qoute based on user input. 
+The Car Insurance is a Web App that will create a insurance quote based on user input. 
 
 
