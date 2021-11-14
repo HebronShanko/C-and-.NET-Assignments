@@ -1,0 +1,12 @@
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\bin\Debug\FinalChallengeAssignment.exe.config
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\bin\Debug\FinalChallengeAssignment.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\bin\Debug\FinalChallengeAssignment.pdb
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\bin\Debug\EntityFramework.dll
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\bin\Debug\EntityFramework.xml
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\obj\Debug\FinalChallengeAssignment.csproj.AssemblyReference.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\obj\Debug\FinalChallengeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\obj\Debug\FinalChallengeAssignment.csproj.CopyComplete
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\obj\Debug\FinalChallengeAssignment.exe
+C:\Users\hebro\OneDrive\Documents\GitHub\C-and-.NET-Assignments\ChallengeSubAssignment\FinalChallengeAssignment\FinalChallengeAssignment\obj\Debug\FinalChallengeAssignment.pdb
